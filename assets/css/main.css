@@ -30,8 +30,8 @@ body {
 
 #section41 {
 	padding-top:50px;
-	color: #fff; 
-	background-color: #00bcd4;
+	color: black; 
+	background-color: #f8f9fa;
 }
 
 #section42 {
@@ -143,6 +143,10 @@ section h3  {
 .color-y{
 	color: #fed136;
 }
-.color-w{
+.color-wo{
 	background: white;
+}
+
+.linesa{
+	display: inline-flex;
 }
